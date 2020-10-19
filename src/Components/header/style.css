@@ -1,0 +1,23 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 0;
+}
+
+.headerMenu a{
+    margin: 0 10px;
+    text-decoration: none;
+    font-size: 12px;
+    letter-spacing: 1.2px;
+    color: sienna;
+    display: inline-block;
+}
+
+.headerMenu{
+    
+    margin: 10px 0;
+}
+
+.headerMenu a:hover{
+     color: tan;
+}
