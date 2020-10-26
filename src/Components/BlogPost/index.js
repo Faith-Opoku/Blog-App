@@ -2,6 +2,12 @@ import React from 'react';
 import Card from '../UI/card';
 import './style.css'
 
+let votes = 0;
+const upVote = () => {
+    votes++;
+    console.log({votes})
+}
+
 const BlogPost=(props)=>{
     return (
         
@@ -19,7 +25,7 @@ const BlogPost=(props)=>{
                  <div className="Featuredpost">
                  <p>“Don’t be so hard on yourself. Be perfectly okay with being who YOU are. Fully embrace yourself, flaws and all. Love yourself right where you are. Strive to do better, but don’t beat yourself up for every shortcoming that you may have. Be brave in your journey! Hold your head up high, and keep moving forward.”
 ― Stephanie Lahart</p>
-                     <img src="https://cdn3.iconfinder.com/data/icons/basicolor-votting-awards/24/210_vote_like_up_upvote-32.png"/>
+                     <img onClick={upVote} src="https://cdn3.iconfinder.com/data/icons/basicolor-votting-awards/24/210_vote_like_up_upvote-32.png"/>
                      </div>       
                                   </div>
                                   <div className="postcontent">
