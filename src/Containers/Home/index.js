@@ -1,12 +1,29 @@
-import React from 'react';
+import React, { useState} from 'react';
 import Header from '../../Components/header';
-import Login from '../../Components/Login';
+
+
+
+
 
 import './style.css';
 
 const Home = props=>{
+
+    
+
+
+    
+
+    
+    
     return (
+        
+
+        
+      
         <div>
+
+
             <h3 className="tag1">My Community</h3>
             <p className="firstarticle">“ The best way to find yourself is to lose yourself in the service of others”. Mahatma Gandhi’s words remind me that a community can be established through the service of others.
   
@@ -99,13 +116,24 @@ With an array of different sports at the disposal of students, it is extremely e
 
      <div className="Book">
          
-      <Login />
       
-     </div>
      
+       </div>
+      
             </div>
+          
+
+        
+        
+    
+
+
+
+      
+      
             
-            
+           
+
           
         
             

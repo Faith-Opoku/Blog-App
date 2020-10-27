@@ -11,10 +11,10 @@ const Navbar=(props)=>{
     return (
         <div className="navbar">
             <ul className="navbarMenu">
-                <li><NavLink to="home">Home</NavLink></li>
-                <li><NavLink to="post">Login</NavLink></li>
-                <li><NavLink to="features">Posts</NavLink></li>
-                <li><NavLink to="current">Features</NavLink></li>
+                {/* <li><NavLink to="login">Login</NavLink></li> */}
+                <li><NavLink to="post">Posts</NavLink></li>
+                <li><NavLink to="contactus">Contact Us</NavLink></li>
+                
 
 
 
