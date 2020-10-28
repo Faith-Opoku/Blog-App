@@ -1,5 +1,4 @@
-import React, { useState} from 'react';
-import Header from '../../Components/header';
+import React from 'react'
 
 
 
@@ -61,7 +60,7 @@ Whatever you value adds value to your life. These values are not only necessary 
 this is how my love story goes.
 like the quilt, we are two different set of individuals, with different values and beliefs. 
 
-our love story is as colour and bright as a quilt. we laugh, cheer each other, blow kisses till we can touch the 🌞. We motivate each other but arguments and challenges stirs things up..
+our love story is as colour and bright as a quilt. we laugh, cheer each other, blow kisses till we can touch the . We motivate each other but arguments and challenges stirs things up..
 
 
 we are gradually fading. but yeah. like the quilt we still beautiful and make the perfect match. we get dirty and wash away the dirt..
@@ -72,7 +71,7 @@ can we let this beautiful quilt fade away. NO!!
 we have to get a polish and do the finishing.
 
 so together we become stronger.
-this is my love story and it's never ending 💯😊</p>
+this is my love story and it's never ending </p>
 
 
      </div>

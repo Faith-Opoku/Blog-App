@@ -1,8 +1,18 @@
 .login-page {
     background-color: lightcyan;
-    width: 500px;
+    width: 700px;
     margin: 0 auto;
     margin-top: 120px;
-    border: rgb(207, 206, 190);
+    border: #cfcebe;
+    height: 300px;
+    text-align: center;
+    font-size: 25px;
+    text-transform: capitalize;
+    border: 0cm;
+    border-radius: 0em;
+    font-style: italic;
+    white-space: normal;
   }
   
+
+
