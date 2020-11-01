@@ -39,7 +39,7 @@ const Home = props=>{
      
 
      <div>
-         <h3 className="rape1">The Values Most Import To Me</h3>
+         <h3 className="rape1">The Values Most Important To Me</h3>
          <p className="tag2">Values play a central role in how we construct and live our lives. Understanding what values are and identifying those which are most important to us can help us achieve a satisfying balance in our life. I would like to take you through some of the values that have impacted my life.
 
 Firstly, vision is created in our mind's eye. It is the vehicle that transports our lives to their destinations. I believe that having a laid down vision is important because it is a constant reminder of what I want to do, where I want to go, and what I have to do to get there.
@@ -60,7 +60,7 @@ Whatever you value adds value to your life. These values are not only necessary 
 this is how my love story goes.
 like the quilt, we are two different set of individuals, with different values and beliefs. 
 
-our love story is as colour and bright as a quilt. we laugh, cheer each other, blow kisses till we can touch the . We motivate each other but arguments and challenges stirs things up..
+our love story is as colour and bright as a quilt. we laugh, cheer each other, blow kisses till we can touch the sun . We motivate each other but arguments and challenges stirs things up..
 
 
 we are gradually fading. but yeah. like the quilt we still beautiful and make the perfect match. we get dirty and wash away the dirt..

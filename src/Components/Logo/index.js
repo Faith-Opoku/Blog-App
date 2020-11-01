@@ -4,7 +4,7 @@ import './style.css';
 const Logo=(props)=>{
     return (
         <div className="logo">
-            <a href="#/">Faith Opoku</a>
+            <a href="#/ ">Diamond's Blog</a>
         </div>
     )
 }
